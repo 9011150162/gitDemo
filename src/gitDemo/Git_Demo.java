@@ -6,6 +6,7 @@ public class Git_Demo {
 		
 		
 		System.out.println("Hello Git");
+		System.out.println("Hello Github");
 
 	}
 
